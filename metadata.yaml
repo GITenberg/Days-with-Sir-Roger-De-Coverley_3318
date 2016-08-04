@@ -1,0 +1,39 @@
+_repo: Days-with-Sir-Roger-De-Coverley_3318
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Steele, Richard, Sir
+    aliases:
+    - Edgar, John, Sir
+    - Bickerstaff, Isaac
+    - Steele, R. (Richard), Sir
+    birthdate: &id001 1672
+    deathdate: 1729
+    gutenberg_agent_id: '984'
+    url: http://www.gutenberg.org/2009/agents/984
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Steele
+  - agent_name: Addison, Joseph
+    alias: Bickerstaff, Isaac
+    birthdate: *id001
+    deathdate: 1719
+    gutenberg_agent_id: '1024'
+    url: http://www.gutenberg.org/2009/agents/1024
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Addison
+description: ''
+gutenberg_issued: '2002-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3318'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English essays'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Sir Roger's family -- Mr. William Wimble -- The picture gallery --
+  A country Sunday -- The widow -- The chase -- The county assizes -- The Spectator's
+  return to town.
+title: Days with Sir Roger De Coverley
+url: http://www.gutenberg.org/ebooks/3318
