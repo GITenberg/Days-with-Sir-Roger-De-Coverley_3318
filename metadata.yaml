@@ -1,5 +1,5 @@
 _repo: Days-with-Sir-Roger-De-Coverley_3318
-_version: 0.0.1
+_version: 0.1.0
 creator:
   authors:
   - agent_name: Steele, Richard, Sir
@@ -7,14 +7,14 @@ creator:
     - Edgar, John, Sir
     - Bickerstaff, Isaac
     - Steele, R. (Richard), Sir
-    birthdate: &id001 1672
+    birthdate: 1672
     deathdate: 1729
     gutenberg_agent_id: '984'
     url: http://www.gutenberg.org/2009/agents/984
     wikipedia: http://en.wikipedia.org/wiki/Richard_Steele
   - agent_name: Addison, Joseph
     alias: Bickerstaff, Isaac
-    birthdate: *id001
+    birthdate: 1672
     deathdate: 1719
     gutenberg_agent_id: '1024'
     url: http://www.gutenberg.org/2009/agents/1024
